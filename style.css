@@ -1,0 +1,34 @@
+body{
+    background-size:cover;
+}
+
+.heading{
+    font-size:23px;
+width:100%;
+margin:0px;
+}
+.note{
+    color:black;
+    font-size:15px;
+}
+.speed_div{
+    float:left;
+}
+.disk{
+width:200px;
+border-radius:100px;
+}
+.volume_div{
+    float:right;
+}
+
+.button11{
+    font-size:20px;
+    width:150px;
+}
+canvas{
+    
+    
+    border:5px solid greenyellow;
+    border-radius:20px;
+}
